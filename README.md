@@ -4,6 +4,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoCarmona&&count_private=true&show_icons=true&include_all_commits=true&theme=merko" alt="LeoCarmona's github stats" />
 </a>
 
+![go-project-template](https://github-readme-stats.vercel.app/api/pin?username=LeoCarmona&repo=go-project-template&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+
 <!--
 **LeoCarmona/LeoCarmona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
