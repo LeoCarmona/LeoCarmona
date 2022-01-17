@@ -7,10 +7,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/LeoCarmona/go-project-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=LeoCarmona&repo=go-project-template&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="go-project-template" />
-</a>
-
 
 
 <!--
